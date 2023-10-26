@@ -1,0 +1,5 @@
+
+rootProject.name="infocus-api"
+
+include("app")
+include("infra")
